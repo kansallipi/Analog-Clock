@@ -1,6 +1,5 @@
 # Analog-Clock
 Creating an analog clock in Python using tkinter
-Problem Statement: Building an analog clock in python
 A clock or watch is called “analog” when it has moving hands and (usually) hours
 marked from number 1 to 12 to show you the time. Some have Roman Numerals
 (I, II, III, etc) instead, or no numbers at all! In other words: not a digital clock.
